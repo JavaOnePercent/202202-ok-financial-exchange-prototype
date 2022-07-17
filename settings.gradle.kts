@@ -14,6 +14,7 @@ pluginManagement {
     }
 }
 
+include("financial-exchange-prototype-adapter")
 include("financial-exchange-prototype-transport-main-openapi")
 include("financial-exchange-prototype-common")
 include("financial-exchange-prototype-mapper")
